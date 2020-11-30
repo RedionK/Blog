@@ -5,6 +5,8 @@ date: "2020-11-29"
 
 ## DRAFT
 
+test comment
+
 Intro: What is the video about?
 
 Start with what is nextjs, why should we use it, what problems does it solve, what does it provide?
